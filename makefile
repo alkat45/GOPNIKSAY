@@ -10,7 +10,7 @@ endif
 
 CFLAGS  := -Wall -Wextra -g -O3
 
-APP_NM  := EXAMPLE
+APP_NM  := GOPNIK
 
 .PHONY: all clean
 
