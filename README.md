@@ -1,11 +1,9 @@
 # GOPNIKSAY
 GOPNIKSAY is a like cowsay but cow here is a gopnik.
 
-> NOTE : THIS PROGRAM WAS MAKED JUST FOR GET FUN.
+> WARNING : THIS PROGRAM WAS MAKED JUST FOR GET FUN.
 
-> WARNING : CODE POSSIBLY ****, BUT IT'S A JUST PROGRAM FOR GET FUN.
-
-## How to compile this fun ****?
+## How to compile this?
 
 > NOTE : IF YOU DONT HAVE GCC AND MAKE, INSTALL THEM!!!
 
